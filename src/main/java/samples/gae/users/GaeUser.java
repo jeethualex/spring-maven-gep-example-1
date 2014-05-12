@@ -12,7 +12,7 @@ import samples.gae.security.AppRole;
 /**
  * Custom user object for the application.
  *
- * @author Luke Taylor
+ * @author Jeetu Alex
  */
 public class GaeUser implements Serializable {
     private final String userId;

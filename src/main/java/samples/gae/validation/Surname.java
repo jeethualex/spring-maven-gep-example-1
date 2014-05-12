@@ -11,7 +11,7 @@ import javax.validation.Payload;
 import org.hibernate.validator.constraints.NotBlank;
 
 /**
- * @author Luke Taylor
+ * @author Jeetu Alex
  */
 @Target( { METHOD, FIELD, ANNOTATION_TYPE })
 @Retention(RetentionPolicy.RUNTIME)

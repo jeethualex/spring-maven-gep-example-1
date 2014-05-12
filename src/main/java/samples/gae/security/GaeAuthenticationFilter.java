@@ -27,7 +27,7 @@ import org.springframework.web.filter.GenericFilterBean;
 import samples.gae.users.GaeUser;
 
 /**
- * @author Luke Taylor
+ * @author Jeetu Alex
  */
 public class GaeAuthenticationFilter extends GenericFilterBean {
     private static final String REGISTRATION_URL = "/register.htm";

@@ -5,7 +5,7 @@ import javax.validation.ConstraintValidator;
 import javax.validation.ConstraintValidatorContext;
 
 /**
- * @author Luke Taylor
+ * @author Jeetu Alex
  */
 public class ForenameValidator implements ConstraintValidator<Forename, String> {
     private static final Pattern VALID = Pattern.compile("[\\p{L}'\\-,.]+") ;

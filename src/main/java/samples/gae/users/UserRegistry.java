@@ -4,7 +4,7 @@ package samples.gae.users;
  *
  * Service used to maintain a list of users who are registered with the application.
  *
- * @author Luke Taylor
+ * @author Jeetu Alex
  */
 public interface UserRegistry {
 

@@ -5,7 +5,7 @@ import samples.gae.validation.Forename;
 import samples.gae.validation.Surname;
 
 /**
- * @author Luke Taylor
+ * @author Jeetu Alex
  */
 public class RegistrationForm {
     @Forename

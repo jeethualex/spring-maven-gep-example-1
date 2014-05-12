@@ -15,7 +15,7 @@ import java.util.*;
 /**
  * UserRegistry implementation which uses GAE's low-level Datastore APIs.
  *
- * @author Luke Taylor
+ * @author Jeetu Alex
  */
 public class GaeDatastoreUserRegistry implements UserRegistry {
     private final Logger logger = LoggerFactory.getLogger(getClass());

@@ -9,7 +9,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.util.Assert;
 
 /**
- * @author Luke Taylor
+ * @author Jeetu Alex
  */
 public class InMemoryUserRegistry implements UserRegistry {
     private final Logger logger = LoggerFactory.getLogger(getClass());

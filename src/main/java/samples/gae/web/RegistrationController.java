@@ -20,7 +20,7 @@ import samples.gae.users.GaeUser;
 import samples.gae.users.UserRegistry;
 
 /**
- * @author Luke Taylor
+ * @author Jeetu Alex
  */
 @Controller
 @RequestMapping(value="/register.htm")

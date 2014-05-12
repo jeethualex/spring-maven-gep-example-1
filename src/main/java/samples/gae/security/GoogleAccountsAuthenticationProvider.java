@@ -23,7 +23,7 @@ import samples.gae.users.UserRegistry;
  * <p>
  * If the account has been disabled, a {@code DisabledException} will be raised.
  *
- * @author Luke Taylor
+ * @author Jeetu Alex
  */
 public class GoogleAccountsAuthenticationProvider implements AuthenticationProvider, MessageSourceAware {
     protected MessageSourceAccessor messages = SpringSecurityMessageSource.getAccessor();

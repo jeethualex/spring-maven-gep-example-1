@@ -10,7 +10,7 @@ import samples.gae.users.GaeUser;
 /**
  * Authentication object representing a fully-authenticated user.
  *
- * @author Luke Taylor
+ * @author Jeetu Alex
  */
 public class GaeUserAuthentication implements Authentication {
     private final GaeUser principal;
