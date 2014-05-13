@@ -11,11 +11,11 @@
 
   <body>
   <div id="content">
-  <h3>Spring Security GAE Application</h3>
+  <h3>Jeetu Alex - Spring Security GAE Application</h3>
 
   <p>
   This application demonstrates the integration of Spring Security
-  with the services provided by Google App Engine. It shows how to:
+  with the services provided by Google App Engine. It shows how to:</p>
   <ul>
       <li>Authenticate using Google Accounts.</li>
       <li>Implement "on&ndash;demand" authentication when a user accesses a secured resource.</li>
@@ -24,7 +24,7 @@
       <li>Setup access-control restrictions based on the roles assigned to users.</li>
       <li>Disable the accounts of specfic users to prevent access.</li>
   </ul>
-  </p>
+  
   <p>
   Go to the <a href="/home.htm">home page</a>.
   </p>

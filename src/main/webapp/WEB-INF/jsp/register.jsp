@@ -35,6 +35,7 @@ retrieved.
 	</fieldset>
 	<input type="submit" value="Register">
 </form:form>
-</body>
 </div>
+</body>
+
 </html>
